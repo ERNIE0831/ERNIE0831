@@ -21,7 +21,7 @@ I focus on understanding systems to improve reliability, security, and operation
 “If it runs in production, I want to understand how every part integrates.”
 
 ### Infrastructure Projects  
-**[Azure Security Monitoring Lab (Client-Server Environment)](./azure-security-monitoring-lab)**  
+**[Azure Security Monitoring Lab (Client-Server Environment)](https://github.com/ERNIE0831/ERNIE0831/blob/de1c66b4e53cdd1e0a05d6310e81ed3601045bcc/Projects/README.md)**  
 A complete Azure environment including segmented virtual networking, Windows Server + Windows 10 VMs, Azure Monitor Agent onboarding, Data Collection Rules, Log Analytics Workspace, Microsoft Sentinel, and simulated attack traffic for SIEM visibility and alerting.
 
 ---
